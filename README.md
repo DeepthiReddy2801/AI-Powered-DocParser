@@ -11,6 +11,8 @@ AI-Powered DocParser is an intelligent document parsing system that extracts key
 - Reduces manual document reading time
 - Lightweight and easy-to-extend architecture
 
+# System Architecture
+https://github.com/DeepthiReddy2801/AI-Powered-DocParser/blob/main/AI-Powered%20DocParser.png?raw=true
 
 # To download the required libraries
 
