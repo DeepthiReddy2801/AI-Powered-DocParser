@@ -1,4 +1,4 @@
-# AI-Powered DocParser
+## AI-Powered DocParser
 
 AI-Powered DocParser is an intelligent document parsing system that extracts key information from PDF documents using AI & NLP techniques. It converts unstructured text into structured, searchable data to help users quickly retrieve important information.
 
@@ -11,13 +11,13 @@ AI-Powered DocParser is an intelligent document parsing system that extracts key
 - Reduces manual document reading time
 - Lightweight and easy-to-extend architecture
 
-# System Architecture
+### System Architecture
 https://github.com/DeepthiReddy2801/AI-Powered-DocParser/blob/main/AI-Powered%20DocParser.png?raw=true
 
-# To download the required libraries
+## To download the required libraries
 
 pip install -r requirements.txt
 
-# To run
+## To run
 
 streamlit run app.py
